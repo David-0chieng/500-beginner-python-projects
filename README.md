@@ -38,6 +38,7 @@ Each project will be organized in its own directory and contains a README.md fil
 | 05  | [Black Jack](https://github.com/404mahdi/500-beginner-python-projects/tree/main/black-jack)                                                 | A classic Black Jack card game.                                           | [karanveer-lca](https://github.com/karanveer-lca)       |
 | 06  | [Rock Paper Scissors](https://github.com/404mahdi/500-beginner-python-projects/tree/main/rockPaperScissors)                                 | A simple command-line Rock Paper Scissors game.                           | [lieutenant-Rohit](https://github.com/lieutenant-Rohit) |
 | 07  | [To-Do List](https://github.com/404mahdi/500-beginner-python-projects/tree/main/toDoList)                                                   | A simple command-line To-Do List application with persistent file storage | [lieutenant-Rohit](https://github.com/lieutenant-Rohit) |
+| 08  | [Password Generator](https://github.com/404mahdi/500-beginner-python-projects/tree/main/password-generator)                                 | A simple command-line password generator with customizable character sets | [fmax-dev](https://github.com/fmax-dev)                 |
 
 ## Contributing Guidelines
 
