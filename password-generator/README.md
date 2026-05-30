@@ -66,4 +66,4 @@ Looking to expand the project? Here are a few potential improvements for future 
 - **Exclude ambiguous characters** — option to omit characters like `0`, `O`, `l`, `1` that are easy to confuse
 
 ## Author
-[fmax-dev](https://github.com/fmax-dev)
+[David-0804](https://github.com/David-0804)
